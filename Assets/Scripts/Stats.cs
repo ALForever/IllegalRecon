@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Assets.Scripts
 {
-    class PlayerStats
+    public class Stats
     {
         [SerializeField] private int _dex;
         [SerializeField] private int _int;
